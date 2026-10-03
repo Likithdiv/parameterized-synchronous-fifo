@@ -4,7 +4,7 @@ These Vivado screenshots show the FPGA device layout and highlighted resource si
 
 ## Device overview
 
-![FPGA device overview with highlighted sites near clock region X0Y2](fifo-device-overview.png)
+![FPGA device overview](fifo-device-overview.png)
 
 ## Resource detail
 
