@@ -1,0 +1,32 @@
+# Local Vivado project directories; recreate from RTL and testbench.
+vivado/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+.Xil/
+*.xpr
+
+# Generated simulator/build files.
+xsim.dir/
+*.wdb
+*.vcd
+*.vvp
+*.jou
+*.log
+*.pb
+*.str
+*.bit
+*.bin
+*.dcp
+*.rpt
+
+# Editor and operating-system artifacts.
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Source .v/.xdc/.tcl and optional .wcfg files are deliberately not ignored.
